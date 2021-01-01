@@ -1,2 +1,2 @@
 # guessing-number
-A guessing number build with Rust
+A guessing number game build with Rust
